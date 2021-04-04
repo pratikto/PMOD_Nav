@@ -88,3 +88,7 @@
 PMOD_Nav.cache/
 
 PMOD_Nav.hw/
+
+PMOD_Nav.ip_user_files/
+
+PMOD_Nav.runs/
