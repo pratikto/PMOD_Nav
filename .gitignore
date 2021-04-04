@@ -92,3 +92,5 @@ PMOD_Nav.hw/
 PMOD_Nav.ip_user_files/
 
 PMOD_Nav.runs/
+
+source_code/SDK/PmodNav_bsp/
